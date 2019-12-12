@@ -1,3 +1,7 @@
+package 'emacs'
+package 'vim-enhanced'
+package 'nano'
+
 package 'tree' do
  action :install
 end
